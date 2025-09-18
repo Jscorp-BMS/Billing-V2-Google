@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoicing & Business Management",
+  "description": "A comprehensive invoicing application with pages for managing invoices, items, customers, and business settings. Built with React and Tailwind CSS, featuring AI-powered suggestions and a clean, responsive interface.",
+  "requestFramePermissions": []
+}
